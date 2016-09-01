@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TableBooking</string>
+    <string name="action_search">Enter Name</string>
+    <string name="title_activity_table_reservation">TableReservationActivity</string>
+    <string name="avalaibale">Available</string>
+    <string name="reserved">Reserved by %1s</string>
+    <string name="table_no">Table %1s</string>
+    <string name="reserev">Free</string>
+    <string name="reservation_successfull">Reserved Successfully for %1s</string>
+    <string name="select_free_table">Please select any free table</string>
+    <string name="reserve_it">Reserve it?</string>
+</resources>
